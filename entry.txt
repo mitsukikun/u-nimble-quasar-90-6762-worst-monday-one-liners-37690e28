@@ -1,0 +1,1 @@
+Monday: my stand-up should've been an email, my deploy froze, my inbox flooded — and my own code filed a bug against me.
